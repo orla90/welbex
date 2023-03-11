@@ -1,0 +1,5 @@
+{
+  "prettier.useTabs": true,
+  "prettier.stylelintIntegration": true,
+  "html.format.enable": true
+}
